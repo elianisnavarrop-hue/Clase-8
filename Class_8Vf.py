@@ -65,7 +65,7 @@ class Visita:
     def asignarRegistro(self,r):
         self.__registro = r
 
-    def verNotas(self):
+    def verNotas(self): 
         return self.__notas
     def asignarNotas(self,n):
         self.__notas = n
@@ -272,6 +272,6 @@ def main():
         else:
             print("Opción no válida, intentelo nuevamente....")
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     main()
  
