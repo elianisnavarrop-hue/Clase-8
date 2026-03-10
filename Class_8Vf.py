@@ -6,7 +6,7 @@ from numpy import indices
 class Indices:
  #constructor
     def __init__(self):
-        #Atributos de la clase
+        #Atributos de la clase 
         self.__pot_d = 0
         self.__pot_t = 0
         self.__pot_a1 = 0
